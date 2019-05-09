@@ -14,6 +14,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ExampleApplication {
     public static void main(String[] args) {
         SpringApplication.run(ExampleApplication.class, args);
-        System.out.println("我是dev分支...");
+        System.out.println("我是dev-20190509分支...");
     }
 }
